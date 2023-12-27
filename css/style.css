@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/*=============================== universal classes ================================*/
+
+.container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+/*=============================== header section styling ========================== */
+
+header {
+    background-color: #FFFFFF;
+}
+
+.nav-one {
+    background-color: #F5F5F5;
+    width: 100%;
+    overflow: auto;
+}
+
+.nav-item {
+    float: left;
+}
