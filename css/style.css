@@ -7,8 +7,9 @@
 /*=============================== universal classes ================================*/
 
 .container {
-    width: 80%;
+    width: 65%;
     margin: 0px auto;
+    overflow: auto;
 }
 
 /*=============================== header section styling ========================== */
@@ -21,8 +22,29 @@ header {
     background-color: #F5F5F5;
     width: 100%;
     overflow: auto;
+    border-bottom: 2px solid #DEDEDE;
+}
+
+.nav-item-wrapper {
+    /* padding: 6px 0px; */
 }
 
 .nav-item {
     float: left;
+    padding: 7px 4px 4px 4px;
+}
+
+#logo-box {
+    background-color: #FFFFFF;
+    padding: 8px 9px;
+}
+
+#aboutUs-box {
+    padding: 10px 9px 4px 9px;
+    border-right: 2px solid #DEDEDE;
+    border-left: 2px solid #DEDEDE;
+}
+
+#pokemon-trading-card {
+    padding-left: 7px;
 }
