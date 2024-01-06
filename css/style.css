@@ -14,6 +14,9 @@
 
 /*=============================== header section styling ========================== */
 
+
+/*=============================== navbar-one styling ========================== */
+
 header {
     background-color: #FFFFFF;
 }
@@ -50,4 +53,39 @@ header {
 
 #pokemon-trading-card {
     padding-left: 7px;
+}
+
+/*=============================== navbar-one styling ========================== */
+
+.nav-two .nav-two-item-wrapper .nav-two-item {
+    float: left;
+    width: 125px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
+    width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
+    width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-plus-sign {
+    width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-cards {
+    width: 40px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-tv-show {
+    width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-crown-pokemon {
+    width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .img-news {
+    width: 25px;
 }
