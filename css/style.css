@@ -64,10 +64,14 @@ header {
 .nav-two .nav-two-item-wrapper .nav-two-item {
     float: left;
     width: 125px;
+    text-align: center;
+    /* height: 85px; */
+    /* padding: 8px 5px; */
 }
 
 .nav-two .nav-two-item-wrapper .home-box {
     background-color: #919191;
+    padding: 18px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
@@ -76,6 +80,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .pokedex-box {
     background-color: #E3350D;
+    padding: 18px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
@@ -84,6 +89,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .vid-game-app-box {
     background-color: #EE6B2F;
+    padding: 8.5px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-plus-sign {
@@ -92,6 +98,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .trading-card-game-box {
     background-color: #E6BC2F;
+    padding: 8px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-cards {
@@ -100,6 +107,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .animation-box {
     background-color: #4DAD5B;
+    padding: 18px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-tv-show {
@@ -108,6 +116,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .play-pokemon-events {
     background-color: #30A7D7;
+    padding: 8.5px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-crown-pokemon {
@@ -116,6 +125,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .news-box {
     background-color: #1B53BA;
+    padding: 18px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-news {
