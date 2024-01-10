@@ -55,10 +55,11 @@ header {
     padding-left: 7px;
 }
 
-/*=============================== navbar-one styling ========================== */
+/*=============================== navbar-two styling ========================== */
 
 .nav-two {
     height: 85px;
+    margin-top: 2.5px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item {
@@ -76,6 +77,11 @@ header {
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
     width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .home {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #FFFFFF;
 }
 
 .nav-two .nav-two-item-wrapper .pokedex-box {
