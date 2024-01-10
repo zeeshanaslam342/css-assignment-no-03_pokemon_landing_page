@@ -75,6 +75,10 @@ header {
     padding: 18px 5px;
 }
 
+.nav-two .nav-two-item-wrapper .home-box {
+    cursor: pointer;
+}
+
 .nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
     width: 25px;
 }
@@ -82,15 +86,27 @@ header {
 .nav-two .nav-two-item-wrapper .nav-two-item .home {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #FFFFFF;
+    font-weight: 450;
 }
 
 .nav-two .nav-two-item-wrapper .pokedex-box {
-    background-color: #E3350D;
+    background-color: #FFFFFF;
     padding: 18px 5px;
+}
+
+.nav-two .nav-two-item-wrapper .pokedex-box:hover {
+    background-color: #E3350D;
+    cursor: pointer;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
     width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .pokedex {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
 }
 
 .nav-two .nav-two-item-wrapper .vid-game-app-box {
@@ -102,6 +118,12 @@ header {
     width: 25px;
 }
 
+.nav-two .nav-two-item-wrapper .nav-two-item .vid-game-app {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
+}
+
 .nav-two .nav-two-item-wrapper .trading-card-game-box {
     background-color: #E6BC2F;
     padding: 8px 5px;
@@ -109,6 +131,12 @@ header {
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-cards {
     width: 40px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .card {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
 }
 
 .nav-two .nav-two-item-wrapper .animation-box {
@@ -120,6 +148,12 @@ header {
     width: 25px;
 }
 
+.nav-two .nav-two-item-wrapper .nav-two-item .animation {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
+}
+
 .nav-two .nav-two-item-wrapper .play-pokemon-events {
     background-color: #30A7D7;
     padding: 8.5px 5px;
@@ -129,6 +163,12 @@ header {
     width: 25px;
 }
 
+.nav-two .nav-two-item-wrapper .nav-two-item .events {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
+}
+
 .nav-two .nav-two-item-wrapper .news-box {
     background-color: #1B53BA;
     padding: 18px 5px;
@@ -136,4 +176,10 @@ header {
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-news {
     width: 25px;
+}
+
+.nav-two .nav-two-item-wrapper .nav-two-item .news {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #919191;
+    font-weight: 450;
 }
