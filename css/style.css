@@ -58,7 +58,7 @@ header {
 /*=============================== navbar-two styling ========================== */
 
 .nav-two {
-    height: 85px;
+    height: 92px;
     margin-top: 2.5px;
 }
 
@@ -72,7 +72,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .home-box {
     background-color: #919191;
-    padding: 18px 5px;
+    padding: 20px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .home-box {
@@ -91,7 +91,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .pokedex-box {
     background-color: #FFFFFF;
-    padding: 18px 5px;
+    padding: 20px 5px;
 }
 
 .nav-two .nav-two-item-wrapper .pokedex-box:hover {
@@ -110,8 +110,14 @@ header {
 }
 
 .nav-two .nav-two-item-wrapper .vid-game-app-box {
-    background-color: #EE6B2F;
-    padding: 8.5px 5px;
+    /* background-color: #FFFFFF; */
+    background-color: #EF743B;
+    padding: 9px 5px;
+}
+
+.nav-two .nav-two-item-wrapper .vid-game-app-box:hover {
+    background-color: #EF743B;
+    cursor: pointer;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-plus-sign {
