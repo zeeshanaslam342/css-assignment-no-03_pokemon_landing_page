@@ -66,21 +66,19 @@ header {
     float: left;
     width: 125px;
     text-align: center;
+    font-size: 14px;
     /* height: 85px; */
     /* padding: 8px 5px; */
 }
 
 .nav-two .nav-two-item-wrapper .home-box {
     background-color: #919191;
-    padding: 20px 5px;
-}
-
-.nav-two .nav-two-item-wrapper .home-box {
+    padding: 20px 0px;
     cursor: pointer;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
-    width: 25px;
+    width: 30px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .home {
@@ -91,7 +89,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .pokedex-box {
     background-color: #FFFFFF;
-    padding: 20px 5px;
+    padding: 20px 0px;
 }
 
 .nav-two .nav-two-item-wrapper .pokedex-box:hover {
@@ -100,7 +98,7 @@ header {
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
-    width: 25px;
+    width: 30px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .pokedex {
@@ -112,7 +110,8 @@ header {
 .nav-two .nav-two-item-wrapper .vid-game-app-box {
     /* background-color: #FFFFFF; */
     background-color: #EF743B;
-    padding: 15px 5px;
+    padding: 15px 0px;
+    height: 91px;
 }
 
 .nav-two .nav-two-item-wrapper .vid-game-app-box:hover {
@@ -121,7 +120,7 @@ header {
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-plus-sign {
-    width: 25px;
+    width: 30px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .vid-game-app {
@@ -129,12 +128,13 @@ header {
     color: #5f5f5f;
     font-weight: 450;
     line-height: 0.9em;
-    margin-top: 2.5px;
+    margin-top: 6px;
 }
 
 .nav-two .nav-two-item-wrapper .trading-card-game-box {
     background-color: #E6BC2F;
-    padding: 8px 5px;
+    padding: 14px 0px;
+    height: 91px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-cards {
@@ -143,32 +143,34 @@ header {
 
 .nav-two .nav-two-item-wrapper .nav-two-item .card {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #919191;
+    color: #5f5f5f;
     font-weight: 450;
+    margin-top: 4px;
 }
 
 .nav-two .nav-two-item-wrapper .animation-box {
     background-color: #4DAD5B;
-    padding: 18px 5px;
+    padding: 15px 0px;
+    height: 91px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-tv-show {
-    width: 25px;
+    width: 32px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .animation {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #919191;
+    color: #5f5f5f;
     font-weight: 450;
 }
 
 .nav-two .nav-two-item-wrapper .play-pokemon-events {
     background-color: #30A7D7;
-    padding: 8.5px 5px;
+    padding: 8.5px 0px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-crown-pokemon {
-    width: 25px;
+    width: 30px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .events {
@@ -179,11 +181,11 @@ header {
 
 .nav-two .nav-two-item-wrapper .news-box {
     background-color: #1B53BA;
-    padding: 18px 5px;
+    padding: 18px 0px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-news {
-    width: 25px;
+    width: 30px;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .news {
