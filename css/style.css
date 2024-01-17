@@ -77,11 +77,18 @@ header {
     cursor: pointer;
 }
 
-/* .nav-two .nav-two-item-wrapper .home-box::after {
+.nav-two .nav-two-item-wrapper .home-box::after {
+    content: "";
+    left: 280px;
+    top: 160px;
+    position: absolute;
     width: 125px;
-    height: 10px;
+    height: 6px;
+    border-radius: 0px 0px 0px 8px;
     background-color: #919191;
-} */
+    /* background-color: #1B53BA; */
+    z-index: 1;
+}
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-bunny {
     width: 30px;
