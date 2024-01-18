@@ -83,10 +83,9 @@ header {
     top: 160px;
     position: absolute;
     width: 125px;
-    height: 6px;
-    border-radius: 0px 0px 0px 8px;
+    height: 7px;
+    border-radius: 0px 0px 0px 10px;
     background-color: #919191;
-    /* background-color: #1B53BA; */
     z-index: 1;
 }
 
@@ -100,20 +99,27 @@ header {
     font-weight: 450;
 }
 
-/* .nav-two .nav-two-item-wrapper .nav-two-item .home::after {
-    width: 125px;
-    height: 10px;
-    background-color: #919191;
-} */
-
 .nav-two .nav-two-item-wrapper .pokedex-box {
     background-color: #FFFFFF;
     padding: 19px 0px;
 }
 
+.nav-two .nav-two-item-wrapper .pokedex-box::after {
+    content: "";
+    left: 405px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    background-color: #E3350D;
+    z-index: 1;
+}
+
 .nav-two .nav-two-item-wrapper .pokedex-box:hover {
     background-color: #E3350D;
     cursor: pointer;
+    transition: 0.5s;
+    color: #FFFFFF;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
@@ -132,9 +138,21 @@ header {
     height: 91px;
 }
 
+.nav-two .nav-two-item-wrapper .vid-game-app-box::after {
+    content: "";
+    left: 530px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    background-color: #EF743B;
+    z-index: 1;
+}
+
 .nav-two .nav-two-item-wrapper .vid-game-app-box:hover {
     background-color: #EF743B;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-plus-sign {
@@ -155,9 +173,21 @@ header {
     height: 91px;
 }
 
+.nav-two .nav-two-item-wrapper .trading-card-game-box::after {
+    content: "";
+    left: 655px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    background-color: #E6BC2F;
+    z-index: 1;
+}
+
 .nav-two .nav-two-item-wrapper .trading-card-game-box:hover {
     background-color: #E6BC2F;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-cards {
@@ -177,9 +207,22 @@ header {
     height: 91px;
 }
 
+.nav-two .nav-two-item-wrapper .animation-box::after {
+    content: "";
+    left: 780px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    background-color: #4DAD5B;
+    z-index: 1;
+}
+
+
 .nav-two .nav-two-item-wrapper .animation-box:hover {
     background-color: #4DAD5B;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-tv-show {
@@ -197,9 +240,22 @@ header {
     padding: 9px 0px;
 }
 
+.nav-two .nav-two-item-wrapper .play-pokemon-events-box::after {
+    content: "";
+    right: 570px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    background-color: #30A7D7;
+    z-index: 1;
+}
+
+
 .nav-two .nav-two-item-wrapper .play-pokemon-events-box:hover {
     background-color: #30A7D7;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-crown-pokemon {
@@ -220,9 +276,23 @@ header {
     padding: 19px 0px;
 }
 
+.nav-two .nav-two-item-wrapper .news-box::after {
+    content: "";
+    right: 445px;
+    top: 160px;
+    position: absolute;
+    width: 125px;
+    height: 7px;
+    border-radius: 0px 0px 10px 0px;
+    background-color: #1B53BA;
+    z-index: 1;
+}
+
+
 .nav-two .nav-two-item-wrapper .news-box:hover {
     background-color: #1B53BA;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-news {
