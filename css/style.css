@@ -119,7 +119,7 @@ header {
     background-color: #E3350D;
     cursor: pointer;
     transition: 0.5s;
-    color: #FFFFFF;
+    color: #FFFFFF; 
 }
 
 .nav-two .nav-two-item-wrapper .nav-two-item .img-pokeball {
