@@ -6,7 +6,7 @@
 
 /*=============================== universal classes ================================*/
 
-.container {
+.nav-container {
     width: 65%;
     margin: 0px auto;
     overflow: auto;
@@ -303,4 +303,13 @@ header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #5f5f5f;
     font-weight: 450;
+}
+
+/* ======================================== main_section styling ======================================= */
+
+/* ======== universal ======== */
+
+.container {
+    width: 63%;
+    margin: 0px auto;
 }
