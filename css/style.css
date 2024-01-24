@@ -79,7 +79,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .home-box::after {
     content: "";
-    left: 280px;
+    left: 277px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -106,7 +106,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .pokedex-box::after {
     content: "";
-    left: 405px;
+    left: 402px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -140,7 +140,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .vid-game-app-box::after {
     content: "";
-    left: 530px;
+    left: 527px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -175,7 +175,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .trading-card-game-box::after {
     content: "";
-    left: 655px;
+    left: 652px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -209,7 +209,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .animation-box::after {
     content: "";
-    left: 780px;
+    left: 777px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -242,7 +242,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .play-pokemon-events-box::after {
     content: "";
-    right: 570px;
+    right: 555px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -278,7 +278,7 @@ header {
 
 .nav-two .nav-two-item-wrapper .news-box::after {
     content: "";
-    right: 445px;
+    right: 429px;
     top: 160px;
     position: absolute;
     width: 125px;
@@ -310,6 +310,28 @@ header {
 /* ======== universal ======== */
 
 .container {
-    width: 63%;
+    width: 97%;
     margin: 0px auto;
+}
+/* ====================================================================================================== */
+
+.black_bg-box {
+    background-image: url(../img/black_bg.png);
+}
+
+.black_bg-box .white-texture_bg-box {
+    background-image: url(../img/container_bg.png);
+    width: 90%;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box {
+    width: 73%;
+    margin: 0px auto;
+    background-color: #FFFFFF;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper {
+    padding: 2.2em 0em;
 }
