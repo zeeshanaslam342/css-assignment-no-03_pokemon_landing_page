@@ -310,28 +310,59 @@ header {
 /* ======== universal ======== */
 
 .container {
-    width: 97%;
+    width: 90%;
     margin: 0px auto;
 }
+
+.white-text {
+    color: #FFFFFF;
+}
+
 /* ====================================================================================================== */
 
 .black_bg-box {
     background-image: url(../img/black_bg.png);
+    overflow: auto;
 }
 
 .black_bg-box .white-texture_bg-box {
     background-image: url(../img/container_bg.png);
-    width: 90%;
+    width: 100%;
     margin: 0px auto;
     background-color: #FFFFFF;
+    overflow: auto;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box {
     width: 73%;
     margin: 0px auto;
     background-color: #FFFFFF;
+    overflow: auto;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper {
     padding: 2.2em 0em;
+    width: 96%;
+    margin: 0px auto;
+    overflow: auto;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box {
+    float: left;
+    width: 60%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .palden-card-wrraper .palden-card-img-box img {
+    width: 100%;
+    display: block;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .palden-card-wrraper .palden-card-text-box {
+    background-color: #DA471B;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box {
+    float: left;
+    width: 35%;
 }
