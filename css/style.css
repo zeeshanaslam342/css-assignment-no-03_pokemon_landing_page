@@ -378,6 +378,29 @@ header {
     margin-bottom: 6px;
 }
 
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper .dual-card-box {
+    width: 100%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper {
+    float: left;
+    width: 48%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper .annihilape-card-img-box img {
+    width: 100%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .porygon-card-wrraper{
+    float: right;
+    width: 48%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .porygon-card-wrraper .porygon-card-img-box img {
+    width: 100%;
+}
+
+
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box {
     float: left;
     width: 35%;
