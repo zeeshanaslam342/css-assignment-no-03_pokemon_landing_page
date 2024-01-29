@@ -360,6 +360,7 @@ header {
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box {
     float: left;
     width: 60%;
+    margin-right: 2.5%;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .palden-card-wrraper .palden-card-img-box img {
@@ -378,8 +379,9 @@ header {
     margin-bottom: 6px;
 }
 
-.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper .dual-card-box {
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box {
     width: 100%;
+    margin-top: 4%;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper {
@@ -387,8 +389,16 @@ header {
     width: 48%;
 }
 
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper .annihilape-card-text-box {
+    background-color: #9FC0A6;
+    padding: 15px 15px;
+    border-radius: 0px 0px 5px 5px;
+}
+
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .annihilape-card-wrraper .annihilape-card-img-box img {
     width: 100%;
+    display: block;
+    border-radius: 5px 5px 0px 0px;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .porygon-card-wrraper{
@@ -396,12 +406,52 @@ header {
     width: 48%;
 }
 
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .porygon-card-wrraper .proygon-card-text-box {
+    background-color: #818599;
+    padding: 15px 15px;
+    border-radius: 0px 0px 5px 5px;
+}
+
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .right-box .dual-card-box .porygon-card-wrraper .porygon-card-img-box img {
     width: 100%;
+    display: block;
+    border-radius: 5px 5px 0px 0px;
 }
 
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box {
     float: left;
-    width: 35%;
+    width: 37%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .mathical-pokemon-card-wrraper .mythical-poke-card-img-box img {
+    width: 100%;
+    display: block;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .mathical-pokemon-card-wrraper .mythical-poke-card-text-box p {
+    background-color: #993872;
+    border-radius: 0px 0px 5px 5px;
+    padding: 15px 15px;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-img-box img {
+    width: 100%;
+    display: block;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-text-box p {
+    background-color: #D0BD14;
+    border-radius: 0px 0px 5px 5px;
+    padding: 15px 15px;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper {
+    margin: 7% 0%;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .pokemon-tcg-card-wrraper .pokemon-tcg-card-img-box img {
+    width: 100%;
+    display: block;
 }
