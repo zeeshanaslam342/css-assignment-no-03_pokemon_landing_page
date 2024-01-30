@@ -436,22 +436,42 @@ header {
     padding: 15px 15px;
 }
 
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper {
+    margin: 7% 0% 7% 0%;
+    overflow: auto;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-img-box {
+    float: left;
+    width: 40%;
+}
+
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-img-box img {
     width: 100%;
     display: block;
+    border-radius: 5px 0px 0px 5px;
 }
 
-.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-text-box p {
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-text-box {
+    float: left;
+    width: 60%;
     background-color: #D0BD14;
-    border-radius: 0px 0px 5px 5px;
+    border-radius: 0px 5px 5px 0px;
     padding: 15px 15px;
 }
 
-.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper {
-    margin: 7% 0%;
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .blaziken-card-wrraper .blaziken-card-text-box P {
+    margin: 52px 0px;
 }
 
 .black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .pokemon-tcg-card-wrraper .pokemon-tcg-card-img-box img {
     width: 100%;
     display: block;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.black_bg-box .white-texture_bg-box .white_bg-box .wrraper .left-box .pokemon-tcg-card-wrraper .pokemon-tcg-card-text-box {
+    background-color: #B38D60;
+    padding: 15px 15px;
+    border-radius: 0px 0px 5px 5px;
 }
