@@ -482,6 +482,9 @@ header {
 .black_bg-box .white-texture_bg-box .character .char-wrraper .cobalion-wrraper {
     float: left;
     width: 18%;
+    /* overflow: auto; */
+    border-top: 5px solid rgb(35, 35, 35);
+    border-right: 2.5px solid rgb(35, 35, 35);
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .cobalion-wrraper .cobalion-img-box {
@@ -492,9 +495,17 @@ header {
     width: 100%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .cobalion-wrraper .cobalion-text-box {
+    background-color: rgb(49, 49, 49);
+    padding: 38px 5px 60px 15px;
+}
+
 .black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper {
     float: left;
     width: 18%;
+    border-top: 5px solid rgb(35, 35, 35);
+    border-right: 2.5px solid rgb(35, 35, 35);
+    border-left: 2.5px solid rgb(35, 35, 35);
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper .dewott-img-box {
@@ -505,22 +516,40 @@ header {
     width: 100%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper .dewott-text-box {
+    background-color: rgb(49, 49, 49);
+    padding: 40px 5px 60px 15px;
+}
+
 .black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper {
     float: left;
     width: 28%;
+    border-top: 5px solid rgb(35, 35, 35);
+    border-right: 2.5px solid rgb(35, 35, 35);
+    border-left: 2.5px solid rgb(35, 35, 35);
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper .centiskorch-img-box {
     background-color: rgb(97, 97, 97);
+    text-align: center;
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper .centiskorch-img-box img {
-    width: 100%;
+    width: 313px;
+    height: 256px;
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper .centiskorch-text-box {
+    background-color: rgb(35, 35, 35);
+    padding: 40px 5px 60px 15px;
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper {
     float: left;
     width: 18%;
+    border-top: 5px solid rgb(35, 35, 35);
+    border-right: 2.5px solid rgb(35, 35, 35);
+    border-left: 2.5px solid rgb(35, 35, 35);
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper .scrafty-img-box {
@@ -531,12 +560,27 @@ header {
     width: 100%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper .scrafty-text-box {
+    background-color: rgb(49, 49, 49);
+    padding: 40px 5px 60px 15px;
+}
+
 .black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper {
     float: left;
     width: 18%;
+    border-top: 5px solid rgb(35, 35, 35);
+    border-left: 2.5px solid rgb(35, 35, 35);
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper .pikipek-img-box {
+    background-color: rgb(97, 97, 97);
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper .pikipek-img-box img {
     width: 100%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper .pikipek-text-box {
+    background-color: rgb(49, 49, 49);
+    padding: 40px 5px 60px 15px;
+}
