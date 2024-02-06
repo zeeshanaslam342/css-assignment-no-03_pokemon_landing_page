@@ -484,22 +484,59 @@ header {
     width: 18%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .cobalion-wrraper .cobalion-img-box {
+    background-color: rgb(97, 97, 97);
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .cobalion-wrraper .cobalion-img-box img {
+    width: 100%;
+}
+
 .black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper {
     float: left;
     width: 18%;
 }
 
+.black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper .dewott-img-box {
+    background-color: rgb(97, 97, 97);
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .dewott-wrraper .dewott-img-box img {
+    width: 100%;
+}
+
 .black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper {
     float: left;
-    width: 25%;
+    width: 28%;
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper .centiskorch-img-box {
+    background-color: rgb(97, 97, 97);
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .centiskorch-wrraper .centiskorch-img-box img {
+    width: 100%;
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper {
     float: left;
-    width: ;
+    width: 18%;
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper .scrafty-img-box {
+    background-color: rgb(97, 97, 97);
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .scrafty-wrraper .scrafty-img-box img {
+    width: 100%;
 }
 
 .black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper {
     float: left;
+    width: 18%;
+}
+
+.black_bg-box .white-texture_bg-box .character .char-wrraper .pikipek-wrraper .pikipek-img-box img {
+    width: 100%;
 }
 
