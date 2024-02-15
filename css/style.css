@@ -584,3 +584,28 @@ header {
     background-color: rgb(49, 49, 49);
     padding: 40px 5px 60px 15px;
 }
+
+/* ======================== footer section ============================= */
+
+.footer {
+    background-color: #1F1F1F;
+    overflow: auto;
+}
+
+.footer .inner-box {
+    width: 70%;
+    margin: 0px auto;
+    background-color: white;
+}
+
+.footer .inner-box .form-left-box {
+    float: left;
+}
+
+.footer .inner-box .form-left-box p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer .inner-box .form-right-box {
+    float: left;
+}
