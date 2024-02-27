@@ -781,3 +781,47 @@ header {
     font-size: 0.7rem;
     width: 15rem;
 }
+
+/* ===================== second card section ======================= */
+
+.sec-card-section .white_bg-box .wrraper .first-col {
+    float: left;
+    width: 30%;
+    background-color: red;
+}
+
+.sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-img-box img {
+    width: 100%;
+}
+
+.sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-img-box img {
+    width: 100%;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col {
+    float: left;
+    width: 30%;
+    background-color: #1B53BA;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-img-box img {
+    width: 100%;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-img-box img {
+    width: 100%;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col {
+    float: left;
+    width: 30%;
+    background-color: #993872;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-img-box img {
+    width: 100%;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-img-box img {
+    width: 100%;
+}
