@@ -784,44 +784,83 @@ header {
 
 /* ===================== second card section ======================= */
 
+/* .sec-card-section .white_bg-box .wrraper {
+    margin: 0px auto;
+} */
+
 .sec-card-section .white_bg-box .wrraper .first-col {
     float: left;
     width: 30%;
-    background-color: red;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-text-box {
+    background-color: #30A7D7;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-text-box {
+    background-color: #1B53BA;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col {
     float: left;
     width: 30%;
-    background-color: #1B53BA;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-text-box {
+    background-color: #B38AEA;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-text-box {
+    background-color: #675945;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col {
     float: left;
     width: 30%;
-    background-color: #993872;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-text-box {
+    background-color: #313131;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-img-box img {
     width: 100%;
+    display: block;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-text-box {
+    background-color: #E6BC2F;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-third-card-wrraper h2 {
+    background-color: #EE6B2F;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-third-card-wrraper p {
+    background-color: #30A7D7;
 }
