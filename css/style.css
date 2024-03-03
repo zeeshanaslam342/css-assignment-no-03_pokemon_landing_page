@@ -836,10 +836,11 @@ header {
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-text-box p {
+    color: #37a9d6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1rem;
     font-weight: 400;
-    margin: 0px 15px 0px 25px ;
+    margin: 0px 4px 0px 25px;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col {
@@ -856,6 +857,22 @@ header {
     background-color: #B38AEA;
 }
 
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-text-box h3 {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0px 18px 5px 18px;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-text-box p {
+    color: #77056e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0px 4px 0px 25px;
+}
+
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-img-box img {
     width: 100%;
     display: block;
@@ -863,6 +880,14 @@ header {
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-text-box {
     background-color: #675945;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .heading-box .heading-text {
+    color: #919191;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    margin: 15px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col {
