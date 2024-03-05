@@ -870,7 +870,7 @@ header {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.1rem;
     font-weight: 400;
-    margin: 0px 4px 0px 25px;
+    margin: 0px 4px 0px 20px;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-img-box img {
@@ -880,6 +880,22 @@ header {
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-text-box {
     background-color: #675945;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-text-box h3 {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0px 18px 5px 18px;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-text-box p {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0px 4px 0px 20px;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .heading-box .heading-text {
@@ -904,6 +920,22 @@ header {
     background-color: #313131;
 }
 
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-text-box h3 {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0px 18px 5px 18px;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-text-box p {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0px 4px 0px 20px;
+}
+
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-img-box img {
     width: 100%;
     display: block;
@@ -911,6 +943,22 @@ header {
 
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-text-box {
     background-color: #E6BC2F;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-text-box h3 {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0px 18px 5px 18px;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-second-card-wrraper .third-col-second-card-text-box p {
+    color: #FFFFFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin: 0px 4px 0px 20px;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-third-card-wrraper h2 {
