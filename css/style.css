@@ -794,17 +794,19 @@ header {
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper {
-    margin: 20px 0px 15px 0px;
+    margin: 50px 0px 18px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-img-box img {
     width: 100%;
     display: block;
+    border-radius: 8px 8px 0px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-text-box {
     background-color: #30A7D7;
     padding: 15px 0px;
+    border-radius: 0px 0px 8px 8px;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-first-card-wrraper .first-col-first-card-text-box h3 {
@@ -826,11 +828,13 @@ header {
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-img-box img {
     width: 100%;
     display: block;
+    border-radius: 8px 8px 0px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-text-box {
     background-color: #1B53BA;
     padding: 16px 0px;
+    border-radius: 0px 0px 8px 8px;
 }
 
 .sec-card-section .white_bg-box .wrraper .first-col .first-col-second-card-wrraper .first-col-second-card-text-box h3 {
@@ -852,6 +856,11 @@ header {
 .sec-card-section .white_bg-box .wrraper .second-col {
     float: left;
     width: 30%;
+    margin: 10px 18px 10px 18px;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper {
+    margin: 0px 0px 20px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-first-card-wrraper .second-col-first-card-img-box img {
@@ -877,6 +886,10 @@ header {
     font-size: 1.1rem;
     font-weight: 400;
     margin: 0px 4px 0px 20px;
+}
+
+.sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper {
+    margin: 20px 0px 0px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .second-col .second-col-second-card-wrraper .second-col-second-card-img-box img {
@@ -922,6 +935,10 @@ header {
     display: block;
 }
 
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper {
+    margin: 0px 0px 18px 0px;
+}
+
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-first-card-wrraper .third-col-first-card-text-box {
     background-color: #313131;
 }
@@ -965,6 +982,10 @@ header {
     font-size: 1.1rem;
     font-weight: 400;
     margin: 0px 4px 0px 20px;
+}
+
+.sec-card-section .white_bg-box .wrraper .third-col .third-col-third-card-wrraper {
+    margin: 18px 0px 0px 0px;
 }
 
 .sec-card-section .white_bg-box .wrraper .third-col .third-col-third-card-wrraper h2 {
